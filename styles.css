@@ -1,0 +1,77 @@
+HTML CSS JSResult Skip Results Iframe
+EDIT ON
+body {
+    background-image: url(https://www.123rf.com/photo_141174182_alarm-clock-on-the-desk-office-stuff-in-the-blurry-background-deadlines-and-todos.html);
+
+    background-color:blueviolet;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  #break-label,
+  #session-label {
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    background-color: #2196f3;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  #break-length,
+  #session-length {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  #timer {
+    margin-top: 30px;
+  }
+  
+  #timer-label {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  #time-left {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  #controls {
+    margin-top: 20px;
+  }
+  
+  #buttons {
+    margin-top: 30px;
+  }
+  
+  #audio {
+    display: none;
+  }
+
+
+
+Resources1× 0.5× 0.25×Rerun
